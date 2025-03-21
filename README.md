@@ -1,5 +1,7 @@
 # halaman_login_register
 
+demo : ![Preview](previews-halaman-login-register.png)
+
 A new Flutter project.
 
 ## Getting Started
